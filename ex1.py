@@ -1,6 +1,6 @@
 from sympy import Limit, Symbol, S 
 
-c = 225%10
+c = 225 % 10
 x = Symbol('x')
 
 def function(x):
